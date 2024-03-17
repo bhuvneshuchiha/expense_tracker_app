@@ -1,0 +1,19 @@
+#root{
+  width : 50%;
+  margin : auto;
+}
+
+.headerDiv{
+  display : flex;
+  justify-content : center
+}
+
+.transaction{
+  width :50%;
+  margin : auto;
+}
+
+.balanceDiv{
+  display : flex;
+  justify-content : center
+}
